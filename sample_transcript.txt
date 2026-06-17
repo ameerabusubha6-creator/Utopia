@@ -1,0 +1,10 @@
+Attendees: Sarah (Utopia Studio), 
+Omar (Founder of LogiFlow) 
+Sarah: Tell me about the biggest problem you're seeing in Qatar logistics. 
+Omar: Mid-sized logistics companies still manage dispatching manually. Drivers use WhatsApp, spreadsheets, and phone calls. Delays are hard to track. 
+Sarah: What's the opportunity? 
+Omar: An AI-powered dispatch platform that predicts delays, assigns drivers automatically, and gives managers a live dashboard. 
+Sarah: Have you spoken to customers? 
+Omar: We've interviewed 12 companies so far. Most said they would pay if it reduced delivery delays by at least 15%. 
+Sarah: That's interesting because Qatar is investing heavily in logistics infrastructure. 
+Omar: Exactly. We think the market is ready for a regional logistics operating system.
